@@ -5,5 +5,5 @@ function current_branch
 end
 
 function gpsup
-    git push --set-upstream origin \(current_branch\)
+    git push --set-upstream origin (current_branch)
 end
